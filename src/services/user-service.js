@@ -1,7 +1,7 @@
 import axios from 'axios';
 import authHeader from './auth-header';
 
-const API_URL = 'hhttps://node-js-jwt-authentication-qu6fwlqkh-hazemax007.vercel.app/api/test/';
+const API_URL = 'https://node-js-jwt-authentication-qu6fwlqkh-hazemax007.vercel.app/api/test/';
 
 class UserService {
   getPublicContent() {
